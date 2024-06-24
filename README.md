@@ -3,7 +3,7 @@
 npm
 nodejs
 
-Contient l'application ReactJS.
+Contient l'application Hello World ReactJS.
 
 ### `npm start`
 
